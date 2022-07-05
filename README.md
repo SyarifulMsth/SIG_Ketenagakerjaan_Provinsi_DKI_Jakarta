@@ -10,7 +10,7 @@ Dibuat oleh : <br>
    Berdasarkan uraian latar belakang di atas, proyek Sistem Informasi Geografis (SIG) ini dibuat dan dikembangkan dengan tujuan serta harapan dapat membantu penduduk di Indonesia dalam memberikan gambaran ataupun informasi terkait ketenagakerjaan dan pengangguran di Provinsi DKI Jakarta.
 
 ## :rocket: Deploy
-  https://https://sig-dki-jakarta.netlify.app/
+  https://sig-dki-jakarta.netlify.app/
   
 ## Referensi Template Bootstrap 
-https://bootstrapmade.com/
+  https://bootstrapmade.com/
