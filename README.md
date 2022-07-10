@@ -14,3 +14,6 @@ Dibuat oleh : <br>
   
 ## :information_source: Referensi Template Bootstrap 
   https://bootstrapmade.com/
+
+## Result 
+![Capture](https://user-images.githubusercontent.com/60634669/178146088-a52855c2-b2b0-4ff2-99b8-00cc444bfb3e.PNG)
