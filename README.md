@@ -1,5 +1,5 @@
 # 💻 SIG-Ketenagakerjaan-Provinsi-DKI-Jakarta
-Project UAS Sistem Informasi Geografis Ketenagakerjaan Provinsi DKI Jakarta
+Project UAS Sistem Informasi Geografis Ketenagakerjaan Provinsi DKI Jakarta (mata kuliah Sistem Informasi Geografis)
 
 ## 📃 Detail
 Dibuat oleh : <br>
